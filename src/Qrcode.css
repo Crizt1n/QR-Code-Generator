@@ -1,0 +1,19 @@
+body{
+    font-family: 'Fira Sans', sans-serif;
+    background-image: linear-gradient(to right, lightgreen , lightblue);
+}
+
+.qrcode-generator {
+    text-align: center;
+    padding: 20px;
+  }
+  
+ .col-md-6{
+    background-color: aliceblue;
+
+ }
+  
+
+  
+
+  
